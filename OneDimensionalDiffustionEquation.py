@@ -82,4 +82,4 @@ def main():
     saveDataToFile(numericalData, analyticalData)
 
 if __name__ == '__main__':
-    main()b
+    main()
